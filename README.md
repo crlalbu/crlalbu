@@ -10,7 +10,7 @@ Technology enthusiast with a unique background in both law and IT. Passionate ab
 - **Containerization**: Docker, Docker Compose
 - **Scripting**: Python, Bash
 - **Infrastructure**: Cloud Computing, CI/CD Pipelines, System Administration
-- **Legal Tech**: Compliance, Data Protection (GDPR, LGPD)
+- **Legal Tech**: Compliance, Data Protection (LGPD)
 
 ## 🔧 Currently Learning/Improving
 - Kubernetes
