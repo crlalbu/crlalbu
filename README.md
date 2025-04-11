@@ -18,6 +18,10 @@ Technology enthusiast with a unique background in both law and IT. Passionate ab
 - AWS/GCP Cloud Services
 - Ansible
 
+## 🌐 Languages  
+- **Portuguese**: Native  
+- **English**: Professional working proficiency
+  
 ## 📚 Education
 - Bachelor's Degree in Telecommunications Networks
 - Postgraduate Degree in Software Quality
